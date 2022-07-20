@@ -1,7 +1,7 @@
 
-![Alt text](https://raw.githubusercontent.com/kessenma/Expandable-table-in-swift/master/expandable_cells_table_view/simulator_screenshot_830E06F2-7209-4366-823E-F056C76D7CC3.png "non expanded view")
+![collapsed view](expandable_cells_table_view/collapsed_view.png "collapsed view")
 
-![Alt text](https://raw.githubusercontent.com/kessenma/Expandable-table-in-swift/master/expandable_cells_table_view/simulator_screenshot_830E06F2-7209-4366-823E-F056C76D7CC3.png "Optional title")
+![expanded view](expandable_cells_table_view/expanded_view.png "expanded view")
 
 
 
